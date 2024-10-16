@@ -1,0 +1,30 @@
+.container1{
+	background-color: #29495c;
+}
+.form1{
+	background-color: #99c1c7;
+	width: 303px;
+	margin: auto;
+	padding: 10px;
+	border: 3px dashed blue;
+}
+
+#submit{
+	background-color:#7572ba ;
+	color: white;
+}
+label{
+	font-weight: bold;
+	font-style: italic;
+	font-size: 15px;
+}
+
+body{
+	background-image: url("https://i.pinimg.com/736x/f8/da/46/f8da465672f14eb3595bd8828ecd0432.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+h1{
+	text-align: center;
+}
